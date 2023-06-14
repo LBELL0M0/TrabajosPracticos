@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>
+            tp css
+        </title>
+
+    <style>
+        body{
+            background-color: #333;
+            background-image: url(332966505_596251482517048_1380535167648857993_n.jpg) ;
+            backdrop-filter: blur(50px);
+    
+        }
+        
+        h1{
+           color: rgb(0, 255, 200); 
+        }
+        h2{
+            color: rgb(161, 71, 245);
+        }
+        p{
+            color: azure;
+        }
+        ul{
+            color:blue
+        }
+    </style>        
+    </head>
+    
+    <body>
+        <div>
+        <h1> CSS </h1>
+        <h2>"Leo nos está mintiendo a todos"</h2>
+        <p>
+             “Después de lograr el Mundial que me faltaba, estoy satisfecho y agradecido por la carrera que hice, y eso es lo más importante para mí“, dando por hecho que su trayectoria ya está completa y que irá a la MLS para tener un cierre definitivo de una manera menos competitiva que en las ligas top de Europa.
+        </p>
+        <h2>"Sonríe Lionel Messi y el Inter de Miami"</h2>
+        <p>El Inter de Miami sacudió el mundo del fútbol tras anunciar la llegada de Lionel Messi y para rodear de la mejor manera al campeón del mundo con Argentina, la dirigencia encabezada por David Beckham buscará sumar rostros conocidos del rosarino al plantel.</p>
+
+        <h1>Lista de colores</h1>
+        <ul>
+            <li >Rojo</li>
+            <li >Verde</li>
+            <li >Azul</li>
+            <li >Amarillo</li>
+        </ul>
+        
+        <h1>ESTILOS DE CSS</h1>
+        </div>
+    </body>
+</html>
